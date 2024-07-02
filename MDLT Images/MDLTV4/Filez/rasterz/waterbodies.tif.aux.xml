@@ -1,0 +1,263 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>fcode_desc</Description>
+    <CategoryNames>
+      <Category>Ice Mass</Category>
+      <Category>Lake/Pond</Category>
+      <Category>Lake/Pond: Hydrographic Category = Intermittent</Category>
+      <Category>Lake/Pond: Hydrographic Category = Intermittent; Stage = Date of Photography</Category>
+      <Category>Lake/Pond: Hydrographic Category = Intermittent; Stage = High Water Elevation</Category>
+      <Category>Lake/Pond: Hydrographic Category = Perennial</Category>
+      <Category>Lake/Pond: Hydrographic Category = Perennial; Stage = Average Water Elevation</Category>
+      <Category>Lake/Pond: Hydrographic Category = Perennial; Stage = Date of Photography</Category>
+      <Category>Lake/Pond: Hydrographic Category = Perennial; Stage = Normal Pool</Category>
+      <Category>Lake/Pond: Hydrographic Category = Perennial; Stage = Spillway Elevation</Category>
+      <Category>Playa</Category>
+      <Category>Reservoir</Category>
+      <Category>Reservoir: Construction Material = Earthen</Category>
+      <Category>Reservoir: Construction Material = Nonearthen</Category>
+      <Category>Reservoir: Reservoir Type = Aquaculture</Category>
+      <Category>Reservoir: Reservoir Type = Cooling Pond</Category>
+      <Category>Reservoir: Reservoir Type = Disposal</Category>
+      <Category>Reservoir: Reservoir Type = Disposal; Construction Material = Earthen</Category>
+      <Category>Reservoir: Reservoir Type = Disposal; Construction Material = Nonearthen</Category>
+      <Category>Reservoir: Reservoir Type = Evaporator</Category>
+      <Category>Reservoir: Reservoir Type = Evaporator; Construction Material = Earthen</Category>
+      <Category>Reservoir: Reservoir Type = Sewage Treatment Pond</Category>
+      <Category>Reservoir: Reservoir Type = Swimming Pool</Category>
+      <Category>Reservoir: Reservoir Type = Tailings Pond; Construction Material = Earthen</Category>
+      <Category>Reservoir: Reservoir Type = Water Storage</Category>
+      <Category>Reservoir: Reservoir Type = Water Storage; Construction Material = Earthen; Hydrographic Category = Intermittent</Category>
+      <Category>Reservoir: Reservoir Type = Water Storage; Construction Material = Earthen; Hydrographic Category = Perennial</Category>
+      <Category>Reservoir: Reservoir Type = Water Storage; Construction Material = Nonearthen</Category>
+      <Category>Reservoir; Reservoir Type = Treatment</Category>
+      <Category>Swamp/Marsh</Category>
+      <Category>Swamp/Marsh: Hydrographic Category = Intermittent</Category>
+      <Category>Swamp/Marsh: Hydrographic Category = Perennial</Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+      <Category></Category>
+    </CategoryNames>
+  </PAMRasterBand>
+</PAMDataset>
