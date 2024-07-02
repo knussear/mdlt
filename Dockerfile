@@ -1,6 +1,5 @@
 # Filename: Dockerfile
-FROM rocker/r-base:latest
-
+FROM knussear/MDLT
 LABEL maintainer="Ken Nussear <knussear@unr.edu>"
 
 # RUN /rocker_scripts/setup_R.sh https://packagemanager.posit.co/cran/__linux__/jammy/latest
