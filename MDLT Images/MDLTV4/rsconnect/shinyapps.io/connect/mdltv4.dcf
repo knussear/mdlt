@@ -1,0 +1,10 @@
+name: mdltv4
+title:
+username: connect
+account: connect
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11956908
+bundleId: 8588510
+url: https://connect.shinyapps.io/mdltv4/
+version: 1
