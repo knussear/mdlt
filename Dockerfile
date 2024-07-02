@@ -1,5 +1,6 @@
 # Filename: Dockerfile
-FROM knussear/MDLT
+FROM knussear/mdlt
+
 LABEL maintainer="Ken Nussear <knussear@unr.edu>"
 
 # RUN /rocker_scripts/setup_R.sh https://packagemanager.posit.co/cran/__linux__/jammy/latest
@@ -52,7 +53,7 @@ RUN R -q -e "options(warn=2); install.packages('scales')"
 
 
 # install R code
-COPY MDLTV4 /app
+COPY mdltv4 /app
 WORKDIR /app
 
 EXPOSE 3838
