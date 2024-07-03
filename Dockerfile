@@ -1,5 +1,5 @@
 # Filename: Dockerfile
-FROM knussear/r-ver:4.3.3
+FROM openanalytics/r-ver:4.3.3
 
 LABEL maintainer="Ken Nussear <knussear@unr.edu>"
 
